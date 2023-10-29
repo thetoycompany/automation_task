@@ -11,7 +11,7 @@ Automation Test scripts for Hudl Login - in cucumber and selenium
 
 ##Installation
 
-to install the dependencies for this project:
+to install the dependencies for this project, ensure npm is installed:
 
 ```bash
 pip install selenium 

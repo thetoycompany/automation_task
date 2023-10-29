@@ -6,3 +6,13 @@ log in
 4. log in easy path- successfull log in -  check we can enter our log in credentials and log in 
 5. create an account
 6. log in with existing accounts
+
+
+
+
+
+
+email_input = driver.find_element_by_id("username-container")
+password_input = driver.find_element_by_id("password-container")
+fgt_pswd = driver.find_element_by_id("forgot_password")
+login_CTA = driver.find_element_by_ID("logIn")
